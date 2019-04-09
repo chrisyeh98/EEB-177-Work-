@@ -1,5 +1,4 @@
-In class exercise and HW for eeb-177 <br>
-My favorite animal <br> 
+# My favorite Animal 
 ***Canis lupus familiaris*** <br>
 1. It's name translates to "brushwood dog" in Japanese <br>
 2. They do not need to be washed often <br>
